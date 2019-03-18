@@ -1,0 +1,7 @@
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\bin\Debug\LinqOrnekleri-TemelIslemler.exe.config
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\bin\Debug\LinqOrnekleri-TemelIslemler.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\bin\Debug\LinqOrnekleri-TemelIslemler.pdb
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-VeriKaynagi.csprojAssemblyReference.cache
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-VeriKaynagi.csproj.CoreCompileInputs.cache
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-TemelIslemler.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\LinqOrnekleri-TemelIslemler\obj\Debug\LinqOrnekleri-TemelIslemler.pdb

@@ -1,0 +1,10 @@
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\bin\Debug\BasitOrnek5.exe.config
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\bin\Debug\BasitOrnek5.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\bin\Debug\BasitOrnek5.pdb
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\bin\Debug\LinqOrnekleri-TemelIslemler.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\bin\Debug\LinqOrnekleri-TemelIslemler.pdb
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\bin\Debug\LinqOrnekleri-TemelIslemler.exe.config
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.csproj.CoreCompileInputs.cache
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.csproj.CopyComplete
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek5\obj\Debug\BasitOrnek5.pdb

@@ -1,0 +1,7 @@
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.exe.config
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\bin\Debug\BasitOrnek2.pdb
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.csprojAssemblyReference.cache
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.csproj.CoreCompileInputs.cache
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.exe
+G:\LINQ\LinqOrnekleri\LinqOrnekleri\BasitOrnek2\obj\Debug\BasitOrnek2.pdb
